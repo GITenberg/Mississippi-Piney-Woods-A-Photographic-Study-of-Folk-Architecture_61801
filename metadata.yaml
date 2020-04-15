@@ -1,11 +1,16 @@
 _repo: Mississippi-Piney-Woods-A-Photographic-Study-of-Folk-Architecture_61801
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61801-h/images/cover.jpg
 creator:
   author:
     agent_name: Black, Patti Carr
     gutenberg_agent_id: '51618'
     url: http://www.gutenberg.org/2009/agents/51618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61801#Mississippi-Piney-Woods-A-Photographic-Study-of-Folk-Architecture
 gutenberg_issued: '2020-04-10'
 gutenberg_type: Text
 identifiers:
